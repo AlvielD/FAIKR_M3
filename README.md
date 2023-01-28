@@ -6,7 +6,7 @@
 
 ### Usage
 
-The project can be tryed out by simply executing the [notebook](https://github.com/AlvielD/FAIKR_M3/blob/main/Transport_network.ipynb) on it.
+The project can be tryed out by simply executing the [notebook](https://github.com/AlvielD/FAIKR_M3/blob/main/src/Transport_network.ipynb) on it.
 
 ### Description of the project
 
@@ -14,7 +14,7 @@ To build the model we were inspired by the structure presented in the textbook [
 
 ### Some remarks
 
-It is highly suggested to read the [report](https://github.com/AlvielD/FAIKR_M3/blob/main/FAIKR_M3_report.pdf) in order to understand the purposes of the project and the experiments performed on it.
+It is highly suggested to read the [report](https://github.com/AlvielD/FAIKR_M3/blob/main/docs/FAIKR_M3_report.pdf) in order to understand the purposes of the project and the experiments performed on it.
 
 The project was developed using the [pgmpy](https://pgmpy.org/) library for python.
 
